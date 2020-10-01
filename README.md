@@ -1,4 +1,4 @@
-# dice_app_flutter
+# dice_app_flutter AN AWESOME APP
 
 A new Flutter application.
 
