@@ -1,6 +1,5 @@
-# dice_app_flutter AN AWESOME APP
+# dice_app_flutter 
 
-A new Flutter Application.
 
 ## Getting Started
 
